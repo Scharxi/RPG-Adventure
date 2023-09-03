@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2138cc0ff033c45d6ab3973ce8ea13d9
+guid: 2400d01fa82724affa712d342c8fb705
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fHero__0
+      name: wall_3
       rect:
         serializedVersion: 2
-        x: 6
-        y: 120
-        width: 12
-        height: 18
+        x: 16
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 598df23d211614d2aa6bb272e73f9779
-      internalID: -1158646953
+      spriteID: 4390286c8b4d240c393c223ac34a3e65
+      internalID: 1506475599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fHero__1
+      name: wall_4
       rect:
         serializedVersion: 2
-        x: 30
-        y: 120
-        width: 12
-        height: 18
+        x: 32
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0ea8360d844a49e6881a905c8b779d7
-      internalID: -2076452314
+      spriteID: 648b05b38d75241e9a1b173aa33d82fe
+      internalID: -1776960719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fHero__2
+      name: wall_5
       rect:
         serializedVersion: 2
-        x: 54
-        y: 120
-        width: 12
-        height: 18
+        x: 48
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fee1a5cdfdfe4dcda318d021dd84574
-      internalID: 1104980198
+      spriteID: 1ce1d27ebee774451ab21cde1d0d8374
+      internalID: 1347876050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fHero__3
+      name: wall_0
       rect:
         serializedVersion: 2
-        x: 78
-        y: 120
-        width: 12
-        height: 18
+        x: 16
+        y: 496
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0c9172746c084d9aae8935c842fe05c
-      internalID: -1195470264
+      spriteID: f715e3ed49aa5457eae27694c3493dee
+      internalID: 1211495597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fHero__4
+      name: wall_1
       rect:
         serializedVersion: 2
-        x: 102
-        y: 120
-        width: 12
-        height: 18
+        x: 32
+        y: 496
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0faa2996e7cf54bfdbb3cc11cd831af6
-      internalID: 1125570963
+      spriteID: 0865a3388d1de4283997882d3661e2b7
+      internalID: 287668748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fHero__5
+      name: wall_2
       rect:
         serializedVersion: 2
-        x: 126
-        y: 120
-        width: 12
-        height: 18
+        x: 48
+        y: 496
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,134 +236,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1dc1fecf4673425aa62abab1a94435a
-      internalID: -1197439978
+      spriteID: deb00a100277d489f9c2c6f3e6486428
+      internalID: 890357100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fHero__6
+      name: floor_0
       rect:
         serializedVersion: 2
-        x: 150
-        y: 120
-        width: 12
-        height: 18
+        x: 16
+        y: 433
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdde2a2c9f72a4093905e9b1ef552f10
-      internalID: 2127137316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fHero__7
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 120
-        width: 12
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e85739847f61443649af6c415e134372
-      internalID: 1430745440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fHero__8
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 96
-        width: 12
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0fab39e36f004747bfe5bad733c1f96
-      internalID: 1792841113
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fHero__9
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 96
-        width: 12
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 416a03eaf27e24ea280126d39dc60c3c
-      internalID: -144964336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fHero__10
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 96
-        width: 12
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73858a53541fa4fdd89a2429fe0aaa2d
-      internalID: 95871888
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fHero__11
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 96
-        width: 12
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7aa87ccbc1a884f289eea64f508e0d00
-      internalID: -1270731070
+      spriteID: 33f3947c0985e484b89ac380cf4b82cd
+      internalID: -332713876
       vertices: []
       indices: 
       edges: []
@@ -379,18 +274,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      fHero__0: -1158646953
-      fHero__1: -2076452314
-      fHero__10: 95871888
-      fHero__11: -1270731070
-      fHero__2: 1104980198
-      fHero__3: -1195470264
-      fHero__4: 1125570963
-      fHero__5: -1197439978
-      fHero__6: 2127137316
-      fHero__7: 1430745440
-      fHero__8: 1792841113
-      fHero__9: -144964336
+      floor_0: -332713876
+      wall_0: 1211495597
+      wall_1: 287668748
+      wall_2: 890357100
+      wall_3: 1506475599
+      wall_4: -1776960719
+      wall_5: 1347876050
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
